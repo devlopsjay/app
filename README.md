@@ -14,4 +14,4 @@ QuickVerify 是一个正在开发中的应用，旨在提供用户注册、身�
 
 ## 联系方式
 
-如有问题请联系：support@quickverify.com
+如有问题请联系：devlops.jay@gmail.com
